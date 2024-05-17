@@ -1,0 +1,14 @@
+/wsp
+*.jou
+*.log
+*.str
+.Xil/
+*.cache
+*.gen
+*.hw
+*.ip_user_files
+*.srcs
+*.xpr
+component.xml
+xgui
+.vscode/
